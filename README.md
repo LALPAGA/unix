@@ -130,7 +130,7 @@ JJJ : représente l'abréviation du nom du jour, 0 : dimanche, 1 : lundi
 
 user : la tache sera exécutée à son nom
 
-* : à chaque unité de temps
+\* : à chaque unité de temps
 
 2-5 : unités 2,3,4,5
 
