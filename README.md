@@ -5,7 +5,7 @@ pour faire une référence : [`[]` is truthy, but not `true`](#-is-truthy-but-no
 # 📚 Table of Contents
 
 - [⏲ PROGRAMMED TASKS](#-programmed-tasks)
-- [👷‍♂️ PROCESSES](#-processes)
+- [👾 PROCESSES](#-processes)
 
 # ⏲ PROGRAMMED TASKS
 
@@ -75,7 +75,7 @@ les files d'attente : -q file Utiliser  la  file d'attente mentionnée.  Une fil
 nice va de -20 (plus favorable) à 19 (moins favorable)
 nice [OPTION] [COMMAND ARG...]
 
-# 👷‍♂️ PROCESSES
+# 👾 PROCESSES
 
 ## `top` command 
 
