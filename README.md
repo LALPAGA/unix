@@ -103,7 +103,7 @@ nice -n <level> [COMMAND]
 
 
 
-# [👷‍♂️ work in progress 👷‍♂️] LANCEMENT CYCLIQUE : TÂCHE CRON
+# 👷‍ [work in progress] 👷‍ LANCEMENT CYCLIQUE : TÂCHE CRON
 
 cron est le deamon qui va lancer des tâches aux intervalles qu'on lui indique
 man cron
