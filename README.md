@@ -68,11 +68,11 @@ The format of these files is a list of usernames, one on each line. Whitespace i
 
 ### Queues
 
-A queue is referenced by a _single letter_ in `[a-z][A-Z]`. The _c_ queue is the default `at` queue, _E_ for `batch`.
-
-Greater letter = greater niceness level.
-
-`-q` \<queue\> to use the specified queue.
+> A queue is referenced by a _single letter_ in `[a-z][A-Z]`. The _c_ queue is the default `at` queue, _E_ for `batch`.
+>
+> Greater letter = greater niceness level.
+>
+> `-q` \<queue\> to use the specified queue.
 
 # 👾 PROCESSES
 
