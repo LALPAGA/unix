@@ -161,4 +161,4 @@ mm hh jj MMM JJJ user commande
 # 🗃 USEFUL FOLDERS AND FILES
 
 ## 📁 Files
-`/etc/init.d` : tasks that launch at the start
+- `/etc/init.d` : tasks that launch at the start
