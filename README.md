@@ -2,7 +2,10 @@
 
 pour faire une référence : [`[]` is truthy, but not `true`](#-is-truthy-but-not-true)
 
-# Table of Contents
+# 📚 Table of Contents
+
+- [⏲ PROGRAMMED TASKS](#-programmed-tasks)
+- # [👷‍♂️ PROCESSES]
 
 # ⏲ PROGRAMMED TASKS
 
