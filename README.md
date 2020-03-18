@@ -6,7 +6,7 @@ If you dislike *very long explanations* that goes too deeply into details and wa
 >
 > &mdash; _**"The UNIX man if i were to do it."**, LALPAGA_
 
-It may seem presumptuous or provocative at first, just take it as _**"Unix if i were to explain it to my grandma"**_.
+It may seem presumptuous or provocative at first, but just take it as _**"Unix if i were to explain it to my grandma"**_.
 
 # 📚 Table of Contents
 
@@ -46,7 +46,7 @@ echo "ps 2>&1 > ps.result" | at now + 1 minute
 ## `batch` command
 
 Same as `at` but waits for the load average to be below 0.8. See [`top`](#top-command) command for load average.
-At launches the task anyway, even if the processor is overloaded.
+It launches the task anyway, even if the processor is overloaded.
 
 ## `batch` and `at` properties
 
