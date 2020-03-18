@@ -104,5 +104,6 @@ To run a program with a modified scheduling priority.
 ```js
 nice -n <level> [COMMAND] // not sure about the number, gotta test it someday
 ```
-#### Niceness
-Ranges from -20 (most favorable scheduling) to 19 (least favorable). _10 by default_.
+> #### Niceness
+>
+> Ranges from -20 (most favorable scheduling) to 19 (least favorable). _10 by default_.
