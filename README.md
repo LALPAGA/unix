@@ -1,4 +1,4 @@
-# LALPAGA'S UNIX PERSONAL TOOLBOX 🖥🐧☺
+# LALPAGA'S UNIX PERSONAL TOOLBOX 🐧😊
 
 pour faire une référence : [`[]` is truthy, but not `true`](#-is-truthy-but-not-true)
 
@@ -72,11 +72,11 @@ les files d'attente : -q file Utiliser  la  file d'attente mentionnée.  Une fil
 nice va de -20 (plus favorable) à 19 (moins favorable)
 nice [OPTION] [COMMAND ARG...]
 
-# PROCESSES
+# PROCESSES 🛸
 
 ## `top` command 
 
-### load average
+### load average 
 
 "charge processeur moyenne" in french. Respecively for the last minute, last 5, and last 15. 
 > - `<1` : not enough processes to totally occupy the machine.
