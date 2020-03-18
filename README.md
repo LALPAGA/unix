@@ -4,7 +4,7 @@ If you dislike verylongexplanations that goes too deeply into details and waste 
 
 aKa _"The UNIX man if i were to do it."_
 
-pour faire une référence : [`[]` is truthy, but not `true`](#-is-truthy-but-not-true)
+
 
 # 📚 Table of Contents
 
