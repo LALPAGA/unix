@@ -1,4 +1,4 @@
-# 🐧😊 LALPAGA'S UNIX PERSONAL TOOLBOX
+# 🐧 LALPAGA'S UNIX PERSONAL TOOLBOX
 
 pour faire une référence : [`[]` is truthy, but not `true`](#-is-truthy-but-not-true)
 
