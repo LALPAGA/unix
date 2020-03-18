@@ -6,7 +6,7 @@ If you dislike verylongexplanations that goes too deeply into details and waste 
 >
 > &mdash; _**"The UNIX man if i were to do it."**, LALPAGA_
 
-It may seem presumptuous or provocative at first, just take it as _**"Unix if i were to explain it to my grandma"**_
+It may seem presumptuous or provocative at first, just take it as _**"Unix if i were to explain it to my grandma"**_.
 
 # 📚 Table of Contents
 
