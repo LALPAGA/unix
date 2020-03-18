@@ -45,7 +45,7 @@ echo "ps 2>&1 > ps.result" | at now + 1 minute
 
 ## `batch` command
 
-Same as `at` but waits for the load average to be below 0.8. See [`top`command](#top-command) command for load average.
+Same as `at` but waits for the load average to be below 0.8. See [`top`](#top-command) command for load average.
 At launches the task anyway, even if the processor is overloaded.
 
 ## `batch` and `at` properties
