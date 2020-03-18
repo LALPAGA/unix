@@ -21,7 +21,7 @@ To schedule a task.
 
 ### Quick overview
 
-```java
+```js
  at now // -> executes now
  at 15:00 // -> at entered time
 	ls -l > trace // -> output in trace file
@@ -32,14 +32,14 @@ To schedule a task.
 
 ### To write the output in `stdin`:
 
-```
+```js
 tty // -> /dev/tty/0
 ls -l > /dev/tty // in a batch or at command
 ```
 
 ### Quirky exemple
 
-```
+```js
 echo "ps 2>&1 > ps.result" | at now + 1 minute
 ```
 
@@ -57,7 +57,7 @@ The format of these files is a list of usernames, one on each line. Whitespace i
 
 #### Location :
 
-```
+```js
 /etc/at.deny
 /etc/at.allow
 ```
