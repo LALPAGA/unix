@@ -91,7 +91,7 @@ Greater letter = greater niceness level.
 
 To run a program with a modified scheduling priority.
 
-### Quick overview 
+### Quick overview
 
 #### Exemple
 
