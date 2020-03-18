@@ -1,5 +1,7 @@
 # 🐧 LALPAGA'S UNIX PERSONAL TOOLBOX
 
+If you dislike The UNIX man if i were to do it.
+
 pour faire une référence : [`[]` is truthy, but not `true`](#-is-truthy-but-not-true)
 
 # 📚 Table of Contents
@@ -79,7 +81,7 @@ nice [OPTION] [COMMAND ARG...]
 
 ## `top` command 
 
-### load average 
+### Load average 
 
 "charge processeur moyenne" in french. Respecively for the last minute, last 5, and last 15. 
 > - `<1` : not enough processes to totally occupy the machine.
@@ -87,3 +89,5 @@ nice [OPTION] [COMMAND ARG...]
 > - `1` : a single process at every moment, nobody is waiting their turn.
 >
 > - `>1` : process are in concurrence.  Caution : processes that are waiting for I/O count, even though their don't get processed by the processor.
+
+## `nice` command
