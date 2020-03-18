@@ -84,5 +84,3 @@ nice [OPTION] [COMMAND ARG...]
 > - `1` : a single process at every moment, nobody is waiting their turn.
 >
 > - `>1` : process are in concurrence.  Caution : processes that are waiting for I/O count, even though their don't get processed by the processor.
->
->> Je suis vraiment un mec de la **street** moi 
