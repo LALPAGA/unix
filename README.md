@@ -72,7 +72,7 @@ A queue is referenced by a _single letter_ in `[a-z][A-Z]`. The _c_ queue is the
 
 Greater letter = greater niceness level.
 
-`-q` <queue> to use the specified queue.
+`-q` \<queue\> to use the specified queue.
 
 # 👾 PROCESSES
 
