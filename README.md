@@ -30,7 +30,7 @@ To schedule a task.
  atrm <jobid> // -> to remove a job (<=> at -d <jobid>)
 ```
 
-### To write the output in `stdin`:
+### To write the output in `stdin`
 
 ```js
 tty // -> /dev/tty/0
