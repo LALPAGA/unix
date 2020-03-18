@@ -137,3 +137,5 @@ user : la tache sera exécutée à son nom
 */3 : toutes les 3 unités de temps (0,3,6...)
 
 5,8 : unités de temps 5 et 8
+
+# 😈👹👺 DEAMONS
