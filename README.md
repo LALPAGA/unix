@@ -63,5 +63,7 @@ nice [OPTION] [COMMAND ARG...]
 ### load average
 "charge processeur moyenne" in french. Respecively for the last minute, last 5, and last 15. 
 > `<1` : not enough processes to totally occupy the machine.
+
 > `1` : a single process at every moment, nobody is waiting their turn.
+
 > `>1` : process are in concurrence.  Caution : processes that are waiting for I/O count, even though their don't get processed by the processor.
