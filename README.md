@@ -1,6 +1,8 @@
 # 🐧 LALPAGA'S UNIX PERSONAL TOOLBOX
 
-If you dislike The UNIX man if i were to do it.
+If you dislike verylongexplanations that goes too deeply into details and waste you time, you're at the right place !
+
+aKa _"The UNIX man if i were to do it."_
 
 pour faire une référence : [`[]` is truthy, but not `true`](#-is-truthy-but-not-true)
 
