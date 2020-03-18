@@ -74,8 +74,6 @@ Greater letter = greater niceness level.
 
 `-q` \<queue\> to use the specified queue.
 
-``bite``
-
 # 👾 PROCESSES
 
 ## `top` command 
