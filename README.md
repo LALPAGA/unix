@@ -1,10 +1,10 @@
-# LALPAGA'S UNIX PERSONAL TOOLBOX :desktop:
+# LALPAGA'S UNIX PERSONAL TOOLBOX 🖥
 
 pour faire une référence : [`[]` is truthy, but not `true`](#-is-truthy-but-not-true)
 
 # Table of Contents
 
-# PROGRAMMED TASKS :timer:
+# PROGRAMMED TASKS ⏲
 
 ## `at` command
 
