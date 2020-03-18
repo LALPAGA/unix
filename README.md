@@ -14,6 +14,7 @@ It may seem presumptuous or provocative at first, but just take it as _**"Unix i
 - [👾 PROCESSES](#-processes)
 - [🕘 CRON](#-cron)
 - [👹 DEAMONS](#-deamons)
+- [🗃 USEFUL FOLDERS AND FILES](#-useful-folders-and-files)
 
 # ⏲ PROGRAMMED TASKS
 
@@ -156,3 +157,8 @@ mm hh jj MMM JJJ user commande
 ```
 
 # 👹 DEAMONS
+
+# 🗃 USEFUL FOLDERS AND FILES
+
+## 📁 Files
+`/etc/init.d` : tasks that launch at the start
