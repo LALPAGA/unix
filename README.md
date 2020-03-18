@@ -106,20 +106,34 @@ nice -n <level> [COMMAND]
 # 👷‍ [work in progress] 👷‍ LANCEMENT CYCLIQUE : TÂCHE CRON
 
 cron est le deamon qui va lancer des tâches aux intervalles qu'on lui indique
+
 man cron
+
 man 5 crontab
 
+
 Il faut rajouter la commande dans le fichier /etc/crontab de la sorte : 
+
 mm hh jj MMM JJJ user commande
+
 mm : minutes de 0 à 59
+
 hh : représente l'heure de 0 à 23
+
 jj : représente le numéro du jour du mois (de 1 à 31)
+
 MMM : représente le numéro du mois de 1 à 12
+
 JJJ : représente l'abréviation du nom du jour, 0 : dimanche, 1 : lundi
+
 7 représente aussi dimanche
+
 user : la tache sera exécutée à son nom
 
 * : à chaque unité de temps
+
 2-5 : unités 2,3,4,5
+
 */3 : toutes les 3 unités de temps (0,3,6...)
+
 5,8 : unités de temps 5 et 8
