@@ -68,18 +68,11 @@ The format of these files is a list of usernames, one on each line. Whitespace i
 
 ### Queues
 
-les files d'attente : -q file Utiliser  la  file d'attente mentionnée.  Une file
-               est designée par une simple lettre, dans  l'inter­
-               valle  a jusqu'à z, et A jusqu'à Z.  La file c est
-               la file d'attente par défaut pour at tandis que la
-               file  E est celle par défaut pour batch.  Plus les
-               files ont une lettre importante, plus les  travaux
-               seront  exécutés  avec  une  valeur de gentillesse
-               (voir nice(1)) élevée.  Si un travail  est  enreg­
-               istré  dans une file avec une lettre majuscule, il
-               sera transmis à batch à l'heure indiquée.
-nice va de -20 (plus favorable) à 19 (moins favorable)
-nice [OPTION] [COMMAND ARG...]
+A queue is referenced by a _single letter_ in `[a-z][A-Z]`. The _c_ queue is the default `at` queue, _E_ for `batch`.
+
+Greater letter = greater niceness level.
+
+`-q` <queue> to use the specified queue.
 
 # 👾 PROCESSES
 
@@ -101,9 +94,9 @@ To run a program with a modified scheduling priority.
 ### Quick overview 
 
 #### Exemple
+
 ```js
-nice -n <level> [COMMAND] // not sure about the number, gotta test it someday
+nice -n <level> [COMMAND]
 ```
-> #### Niceness
->
-> Ranges from -20 (most favorable scheduling) to 19 (least favorable). _10 by default_.
+
+> **Niceness** ranges from -20 (most favorable scheduling) to 19 (least favorable). _10 by default_.
