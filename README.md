@@ -1,6 +1,6 @@
 # 🐧 LALPAGA'S UNIX PERSONAL TOOLBOX
 
-If you dislike *very long explanations* that goes too deeply into details and waste you time, `you're at the right place` !
+If you dislike *very long explanations* that goes too deeply into details and waste you time, `you're at the right place !`
 
 > To sum up :
 >
@@ -95,3 +95,14 @@ nice [OPTION] [COMMAND ARG...]
 > - `>1` : process are in concurrence.  Caution : processes that are waiting for I/O count, even though their don't get processed by the processor.
 
 ## `nice` command
+
+To run a program with a modified scheduling priority.
+
+### Quick overview 
+
+#### Exemple
+```js
+nice -n <level> [COMMAND] // not sure about the number, gotta test it someday
+```
+#### Niceness
+Ranges from -20 (most favorable scheduling) to 19 (least favorable). _10 by default_.
