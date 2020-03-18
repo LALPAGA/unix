@@ -1,6 +1,6 @@
 # 🐧 LALPAGA'S UNIX PERSONAL TOOLBOX
 
-If you dislike verylongexplanations that goes too deeply into details and waste you time, you're at the right place !
+If you dislike *very long explanations* that goes too deeply into details and waste you time, `you're at the right place` !
 
 > To sum up :
 >
