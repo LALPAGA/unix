@@ -40,7 +40,7 @@ tty // -> /dev/tty/0
 ls -l > /dev/tty // in a batch or at command
 ```
 
-### Quirky exemple
+### Quirky example
 
 ```js
 echo "ps 2>&1 > ps.result" | at now + 1 minute
