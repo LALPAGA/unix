@@ -144,11 +144,11 @@ mm hh jj MMM JJJ user commande
 
 > `\*` : at every time unit
 >
-> `2-5` : unités 2,3,4,5
+> `2-5` : units 2,3,4,5
 >
-> `*/3` : toutes les 3 unités de temps (0,3,6...)
+> `*/3` : every 3 time units (0,3,6...)
 >
-> `5,8` : unités de temps 5 et 8
+> `5,8` : units 5 and 8
 
 ##### Exemple
 
